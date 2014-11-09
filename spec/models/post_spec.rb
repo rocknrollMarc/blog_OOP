@@ -1,4 +1,4 @@
-require 'minitest/autotest'
+require 'minitest/autorun'
 require_relative '../../app/models/post'
 
 describe Post do
