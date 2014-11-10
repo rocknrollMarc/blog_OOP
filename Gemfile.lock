@@ -119,6 +119,7 @@ GEM
       ffi (>= 0.5.0)
     rdoc (3.12.2)
       json (~> 1.4)
+    rr (1.1.2)
     sass (3.4.7)
     sass-rails (3.1.7)
       actionpack (~> 3.1.0)
@@ -154,6 +155,7 @@ DEPENDENCIES
   minitest-redgreen
   minitest-rg
   rails (= 3.1.0)
+  rr
   sass-rails (~> 3.1.0)
   sqlite3
   uglifier
